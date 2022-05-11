@@ -12,4 +12,4 @@ The goal is to create a repository of useful and reusable test projects. This wi
 - Security
 
 ## Footer
-[https://clm-whyte.github.io/portfolio/]()
+[https://clm-whyte.github.io/portfolio/](https://clm-whyte.github.io/portfolio/)
